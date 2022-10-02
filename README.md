@@ -2,11 +2,11 @@
 
 Sistema de autenticação de usuário utilizando JSON Web Token 
 
-Requisitos Globais
+### Requisitos Globais
 `npm install -g ts-node typescript nodemon`
 
-Instalação
+### Instalação
 `npm install`
 
-Para rodar o Projeto
+### Para rodar o Projeto
 `npm run start`
